@@ -1,0 +1,29 @@
+PizzaBot - A Chatbot for Customer Service at Pizza Restaurant
+Overview
+PizzaBot is a chatbot developed using OpenAI's GPT and OpenAI APIs, designed to provide exceptional customer service at your favorite pizza restaurant. The bot's intuitive and interactive interface makes it easy for customers to get answers to their questions and place orders seamlessly.
+
+Features:
+Natural Language Understanding: PizzaBot leverages OpenAI's GPT technology to understand and respond to customer inquiries in natural language, making interactions feel human-like.
+
+Streamlit Frontend: The bot's frontend is built using Streamlit, a user-friendly Python library for creating web applications with minimal code. This ensures a smooth and responsive user experience.
+
+Customer Service:
+PizzaBot is dedicated to enhancing the customer experience at the pizza restaurant. It can assist with menu inquiries, order placement, delivery tracking, and more.
+
+Getting Started
+Installation: To run PizzaBot locally, follow the installation instructions in the project's documentation.
+
+Usage:
+Launch the bot, and customers can start interacting with it by sending messages or questions through the user interface.
+
+Customization:
+Customize PizzaBot to fit the specific needs and branding of your pizza restaurant.
+
+Support
+If you have any questions, feedback, or need assistance with PizzaBot, please feel free to contact the project maintainer by sending a direct message.
+
+
+
+
+
+
