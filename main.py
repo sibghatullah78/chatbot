@@ -4,7 +4,7 @@ from dotenv import load_dotenv
 
 # Load your OpenAI API key from .env
 load_dotenv()
-openai.api_key = "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"
+openai.api_key = "use your own api key here "
 # Initialize the conversation
 conversation = [{'role': 'system', 'content': """
 You are OrderBot, an automated service to collect orders for a pizza restaurant. \
